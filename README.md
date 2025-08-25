@@ -29,4 +29,4 @@ Buybook.HTML - Main HTML file with book catalog and detail views
 Buypopular.CSS - Custom styles for the dark theme and responsive layout
 Bootstrap CDN - For responsive grid system and components
 
-# This project showcases front-end development skills including responsive web design, interactive elements, and creating engaging user experiences for book enthusiasts.
+This project showcases front-end development skills including responsive web design, interactive elements, and creating engaging user experiences for book enthusiasts.
